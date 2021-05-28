@@ -1,0 +1,9 @@
+json
+asyncio
+numpy
+Pillow
+opencv-python
+mss
+mouse
+keyboard
+pygetwindow
